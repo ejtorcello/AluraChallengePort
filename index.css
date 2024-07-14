@@ -82,9 +82,9 @@ grid-template-areas:
 .icono{  width: 5vh; /* Ajusta el ancho a tu preferencia */
     vertical-align: middle;
     height: auto; /* Mantiene la proporción original de la imagen */
-    border: 2px solid #000; /* Puedes añadir un borde si lo deseas */
-    border-radius: 10px; /* Esquinas redondeadas */
+    border: 2px solid #000; 
+    border-radius: 10px; 
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra alrededor del logo */
     object-fit: contain; /* Ajusta la imagen para que se contenga dentro del área especificada */
     
-    margin: 10px auto; /* Centra la imagen horizontalmente y añade un margen */}
+    margin: 10px auto; }
